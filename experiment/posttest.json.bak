@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A solid cone having specific gravity 0.8 floats in water with apex down. Find the metacentre and stability of the cone. Diameter of the cone is 1 m and height of the cone is 2.9 m.",
+      "qid": 1,
+      "option_a": "-0.099",
+      "option_b": "0.376",
+      "option_c": "-0.278",
+      "option_d": "0.327",
+      "correct_option": "a"
+   },
+   {
+      "question": "A solid cone having specific gravity 0.8 floats in water with apex down. Find the metacentre and stability of the cone. Diameter of the cone is 1 m and height of the cone is 1.2 m.",
+      "qid": 2,
+      "option_a": "0.477",
+      "option_b": "0.327",
+      "option_c": "0.08",
+      "option_d": "0.187",
+      "correct_option": "c"
+   }
+]

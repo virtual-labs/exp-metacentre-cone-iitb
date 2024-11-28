@@ -1,0 +1,30 @@
+[
+
+    {
+        "question": "If GM is negative represents",
+        "qid": 1,
+        "option_a": "Unstable condition",
+        "option_b": "Stable condition",
+        "option_c": "Neutral condition",
+        "option_d": "All of them",
+        "correct_option": "a"
+    },
+    {
+        "question": "If GM is positive represents",
+        "qid": 2,
+        "option_a": "Neutral condition",
+        "option_b": "Unstable condition",
+        "option_c": "Stable condition",  
+        "option_d": "All of them",
+        "correct_option": "c"
+    },
+    {
+        "question": "If ‘G’ and ‘M’ coincides represents.",
+        "qid": 3,
+        "option_a": "Neutral condition",
+        "option_b": "Unstable condition",
+        "option_c": "Stable condition",
+        "option_d": "All of them",
+        "correct_option": "a"
+    }
+]
