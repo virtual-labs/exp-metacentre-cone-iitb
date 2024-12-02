@@ -1,1 +1,1 @@
-<h2>AIM: To study Metacentre and stability of cone wooden block.</h2>
+<h2>AIM: To study Metacentre and stability of cone.</h2>
